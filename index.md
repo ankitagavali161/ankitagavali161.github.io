@@ -8,15 +8,22 @@
 
 ## 🌟 Professional Summary
 
-Hands-on Solutions Architect with 10+ years delivering secure, production-grade platforms across AWS, Azure, and OpenShift. I specialize in building GitOps-driven delivery pipelines, modernizing Kubernetes and OpenShift clusters, and embedding observability with Datadog. My approach blends DevOps leadership and deep technical implementation—using automation, IaC, and zero-trust guardrails to ship resilient platform capabilities at scale.
+Hands-on Cloud Solutions Architect with 10+ years of experience across GE, Amazon Web Services, and Datadog. I specialize in cloud modernizations through container ecosystems, GitOps, DevOps best practices, and embedding full-stack observability with Datadog.
+
+My work spans designing and implementing scalable, reliable, and automated cloud platforms, modernizing Kubernetes and OpenShift environments, and enabling teams to adopt efficient cloud best practices. I am passionate about solving complex infrastructure challenges and empowering teams to deliver resilient, high-quality software at scale.
+
+My approach blends DevOps leadership and deep technical implementation—using automation, IaC, and zero-trust guardrails to ship resilient platform capabilities at scale.
 
 ---
 
 ## 🧭 What Drives Me
-- Engineering platform reliability with Kubernetes, OpenShift, and service mesh patterns
-- Accelerating delivery through GitOps, Argo CD, and policy-as-code automation
-- Translating regulatory and security constraints into DevSecOps guardrails and zero-trust architectures
-- Coaching technical teams on observability, platform operations, and cloud-native best practices
+- Drives cloud modernization by defining scalable architectures (AWS/GCP) and optimizing platform environments for compliance and operational efficiency (e.g., Well-Architected Reviews).
+
+- Accelerates software delivery through the implementation of GitOps, Argo CD, and policy-as-code automation for a seamless deployment pipeline.
+
+- Translates regulatory constraints into proactive DevSecOps guardrails and zero-trust architectures to embed security directly into the platform foundation.
+
+- Coach technical teams on best practices for observability, high-level platform operations, and the cultural shift toward cloud-native excellence.
 
 ---
 
@@ -42,7 +49,6 @@ Hands-on Solutions Architect with 10+ years delivering secure, production-grade 
 ![GitOps](https://img.shields.io/badge/GitOps-Automation-0E5A8A?style=for-the-badge)
 ![Argo CD](https://img.shields.io/badge/Argo_CD-FB542B?style=for-the-badge&logo=argo&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ### 🔐 Security & Reliability
 ![Zero Trust](https://img.shields.io/badge/Zero_Trust-2C2C2C?style=for-the-badge)
@@ -50,10 +56,12 @@ Hands-on Solutions Architect with 10+ years delivering secure, production-grade 
 ![SOC 2](https://img.shields.io/badge/SOC_2-1B365D?style=for-the-badge)
 ![ISO 27001](https://img.shields.io/badge/ISO_27001-003399?style=for-the-badge)
 
-### 📊 Observability & Data
+### 📊 Observability 
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+### Data Analytics
 ![Data Lakes](https://img.shields.io/badge/Data_Lakes-0B8ECD?style=for-the-badge)
 
 ---
@@ -79,7 +87,7 @@ Hands-on Solutions Architect with 10+ years delivering secure, production-grade 
 
 ---
 
-### 2. [Observability Accelerator on Datadog]
+### 2. [Observability Accelerator on Datadog](https://github.com/ankitagavali161/datadog-artifacts)
 [![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white)](https://www.datadoghq.com/)  [![GitOps](https://img.shields.io/badge/GitOps-Automation-0E5A8A?style=flat)](https://about.gitlab.com/topics/gitops/)  [![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)](https://terraform.io)  [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)](https://github.com/features/actions)
 
 **Turnkey monitoring blueprints** provisioned dashboards, SLOs, and incident workflows via Terraform modules and GitOps automation.
@@ -87,8 +95,6 @@ Hands-on Solutions Architect with 10+ years delivering secure, production-grade 
 **Key highlights:**
 - Automated Datadog monitor creation for Kubernetes, OpenShift, and serverless workloads from a single GitOps repo  
 - Delivered self-service onboarding guides and pipelines that dropped setup time for new services from weeks to hours  
-- Embedded runbooks and RCA templates into alerts, boosting mean-time-to-mitigate by 35% across partner teams  
-- Exposed trend analytics to partner success teams, linking observability improvements to KPI attainment  
 
 ---
 
@@ -98,10 +104,9 @@ Hands-on Solutions Architect with 10+ years delivering secure, production-grade 
 **Unified GitOps-driven delivery** spanned OpenShift and EKS clusters, enforcing policy-as-code guardrails across hybrid environments.
 
 **Key highlights:**
-- Managed multi-cluster rollouts with Argo CD ApplicationSets and automated health gates using Datadog monitors  
-- Codified infrastructure with Terraform + Crossplane, enabling team-specific landing zones within shared governance  
-- Integrated OPA gatekeeper policies and Azure Key Vault secrets to maintain zero-trust controls end-to-end  
-- Reduced release drift by 70% through declarative environment promotion and automated rollback strategies  
+- Manage multi-cluster rollouts with Argo CD ApplicationSets and automated health gates using Datadog monitors  
+- Infrastructure with Terraform + Crossplane, enabling team-specific landing zones within shared governance  
+- Integrated OPA gatekeeper policies and Azure Key Vault secrets to maintain zero-trust controls end-to-end 
 
 ---
 
@@ -114,7 +119,6 @@ Hands-on Solutions Architect with 10+ years delivering secure, production-grade 
 - Integrated Terraform pipelines with Control Tower and Azure Policy to enforce GDPR, ISO 27001, and SOC 2 requirements  
 - Implemented GitOps-driven change workflows with automated evidence collection for audit readiness  
 - Deployed zero-trust network baselines (Transit Gateway, Azure Firewall, service mesh) with observability baked in  
-- Reduced operational toil by 45% through standardized catalogs, blueprints, and reusable automation modules  
 
 ---
 
@@ -126,22 +130,10 @@ Hands-on Solutions Architect with 10+ years delivering secure, production-grade 
 **Key highlights:**
 - Standardized canary and blue/green strategies across clusters with automated rollback policies  
 - Fed Prometheus metrics and Datadog anomaly detection into rollout decisions, tightening release feedback loops  
-- Provided platform API abstractions and templates that enabled squads to ship updates independently  
-- Cut release lead time by 60% while maintaining compliance and traceability requirements  
 
 ---
 
 
-
-**End-to-end commerce platform operations** showcased GitHub Actions pipelines, Azure Kubernetes Service, and Datadog monitoring patterns.
-
-**Key highlights:**
-- Automated blue/green deployments with environment approvals and policy checks before live cutover  
-- Provisioned Azure resources via Terraform, including AKS, Cosmos DB, and Key Vault integrations  
-- Built Datadog dashboards for transaction tracing, latency, and infrastructure health with synthetic testing  
-- Enabled DevSecOps workflows with container image scanning and signed artifacts via Azure Key Vault  
-
----
 
 ## 🎓 Education
 - **Master’s in System Integration & Information Technology** — ISEP, École d’ingénieurs du numérique (2015 - 2017)
