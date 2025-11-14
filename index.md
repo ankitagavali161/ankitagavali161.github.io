@@ -98,7 +98,22 @@ My approach blends DevOps leadership and deep technical implementation—using a
 
 ---
 
-### 3. [GitOps Control Plane for Hybrid Cloud]*(Preview)*
+### [End-to-End Data Lake on AWS S3, Glue, Athena, and QuickSight](https://www.youtube.com/watch?v=74ayGG6SZLw)
+
+[![Watch the video](https://img.youtube.com/vi/74ayGG6SZLw/0.jpg)](https://www.youtube.com/watch?v=74ayGG6SZLw)
+
+**Complete Data Lake pipeline** built on AWS, from ingestion to visualization with QuickSight.
+
+**Key highlights:**
+- Ingest and catalog data on **S3 using AWS Glue** for serverless ETL  
+- Query structured and semi-structured data with **AWS Athena** for fast analytics  
+- Visualize insights in **AWS QuickSight dashboards** with end-to-end automation  
+- Demonstrates integration best practices across AWS services for scalable analytics
+
+
+---
+
+### 4. [GitOps Control Plane for Hybrid Cloud]*(Preview)*
 [![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat&logo=redhatopenshift&logoColor=white)](https://www.redhat.com/en/technologies/cloud-computing/openshift)  [![Argo CD](https://img.shields.io/badge/Argo_CD-FB542B?style=flat&logo=argo&logoColor=white)](https://argo-cd.readthedocs.io/)  [![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)](https://terraform.io)  [![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com)  [![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)](https://aws.amazon.com)
 
 **Unified GitOps-driven delivery** spanned OpenShift and EKS clusters, enforcing policy-as-code guardrails across hybrid environments.
@@ -110,7 +125,7 @@ My approach blends DevOps leadership and deep technical implementation—using a
 
 ---
 
-### 4. [Multi-Cloud Landing Zone Modernization] *(Preview)*
+### 5. [Multi-Cloud Landing Zone Modernization] *(Preview)*
 [![AWS Control Tower](https://img.shields.io/badge/AWS_Control_Tower-FF9900?style=flat&logo=amazonaws&logoColor=white)](https://aws.amazon.com/controltower/)  [![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com)  [![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)](https://terraform.io)  [![GitOps](https://img.shields.io/badge/GitOps-Automation-0E5A8A?style=flat)](https://about.gitlab.com/topics/gitops/)
 
 **Compliance-ready landing zones** established automated guardrails, identity integration, and incident response playbooks across AWS and Azure.
@@ -121,18 +136,6 @@ My approach blends DevOps leadership and deep technical implementation—using a
 - Deployed zero-trust network baselines (Transit Gateway, Azure Firewall, service mesh) with observability baked in  
 
 ---
-
-### 5. [Progressive Delivery for OpenShift Platforms]*(Preview)*
-[![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat&logo=redhatopenshift&logoColor=white)](https://www.redhat.com/en/technologies/cloud-computing/openshift)  [![Argo Rollouts](https://img.shields.io/badge/Argo_Rollouts-FB542B?style=flat&logo=argo&logoColor=white)](https://argo-rollouts.readthedocs.io/)  [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)](https://about.gitlab.com/)  [![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)](https://prometheus.io)
-
-**Enterprise OpenShift release pipelines** combined GitLab CI, Argo Rollouts, and service mesh traffic shaping for zero-downtime updates.
-
-**Key highlights:**
-- Standardized canary and blue/green strategies across clusters with automated rollback policies  
-- Fed Prometheus metrics and Datadog anomaly detection into rollout decisions, tightening release feedback loops  
-
----
-
 
 
 ## 🎓 Education
